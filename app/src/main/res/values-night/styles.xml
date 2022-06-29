@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="Widget.Theme.SpeechMood.MyView" parent="">
+        <item name="android:background">@color/colorBackground</item>
+        <item name="exampleColor">@color/colorPrimary</item>
+    </style>
+</resources>

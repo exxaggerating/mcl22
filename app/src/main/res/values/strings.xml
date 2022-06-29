@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">SpeechMood</string>
+    <string name="label_unknown" tools:ignore="ExtraTranslation">Noise</string>
+    <string name="label_aggressive" tools:ignore="ExtraTranslation">Strong/Aggressive</string>
+    <string name="label_neutral" tools:ignore="ExtraTranslation">Neutral</string>
+    <string name="label_positive" tools:ignore="ExtraTranslation">Calm/Positive</string>
+    <string name="label_negative" tools:ignore="ExtraTranslation">Withdrawn/Negative</string>
+    <string name="timeline">Scoring-Timeline</string>
+    <string name="histogram">Histogram of Predictions</string>
+</resources>

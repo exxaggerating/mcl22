@@ -1,0 +1,5 @@
+unknown
+aggressive
+negative
+neutral
+positive
